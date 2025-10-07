@@ -1,6 +1,3 @@
-### SOURCE:
-### https://lots-project.com/
-### Developed By HUNTER-BLUE
 Website,Tags,Service Provider
 raw.githubusercontent.com,"Phishing; C&C; Download",Github
 github.com,"Phishing; Download",Github
