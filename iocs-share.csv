@@ -151,8 +151,7 @@ textbin.net,"Exfiltration; C&C; Download",TextBin
 ideone.com,"Exfiltration; C&C; Download",Ideone.com
 4sync.com,"Download",4Sync
 pastebin.pl,"Exfiltration; C&C; Download",Pastebin.pl
-www.uplooder.net,"Phishing
-; Download; Exfiltration",Uplooder
+www.uplooder.net,"Phishing; Download; Exfiltration",Uplooder
 graph.microsoft.com,"C&C; Exfiltration",Microsoft
 pastie.org,"Exfiltration; C&C; Download",Pastie.org
 .slab.com,"Phishing",Slab
