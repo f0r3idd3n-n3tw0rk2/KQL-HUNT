@@ -175,8 +175,3 @@ localhost.run,"C&C",Localhost.run
 .requestbin.net,"C&C",RequestBin
 clbin.com,"C&C; Exfiltration; Download",Clbin
 ix.io,"C&C; Exfiltration; Download",Ix.io
-
-localhost.run,"C&C",Localhost.run
-*.requestbin.net,"C&C",RequestBin
-clbin.com,"C&C; Exfiltration; Download",Clbin
-ix.io,"C&C; Exfiltration; Download",Ix.io
