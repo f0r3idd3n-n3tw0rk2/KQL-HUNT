@@ -1,6 +1,7 @@
 Website,Tags,Service Provider
 raw.githubusercontent.com,"Phishing; C&C; Download",Github
 github.com,"Phishing; Download",Github
+sourceforge.net,"Credential Stealer; PUA; Download",Sourceforge
 1drv.ms,"Phishing",Microsoft
 1drv.com,"Phishing; Download",Microsoft
 docs.google.com,"Phishing; C&C",Google
